@@ -1,0 +1,11 @@
+{
+    "name": "Fennel Protocol",
+    "version": "1.0.0",
+    "description": "Fennel Protocol Interface",
+    "manifest_version": 3,
+    "author": "Fennel Labs",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Fennel"
+    }
+}
